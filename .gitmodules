@@ -1,0 +1,3 @@
+[submodule "react-bhy"]
+	path = react-bhy
+	url = https://github.com/BaoHaoYu/react-bhy.git
